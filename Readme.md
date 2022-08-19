@@ -41,7 +41,7 @@ https://medium.com/@salmankhan231999/clone-of-fashionnova-com-7681e2a5bf59
 
 
 
-Here you can see the project: https://fashion-nova-clone-beta.vercel.app/
+# Here you can see the project: https://clone-fashionnova.netlify.app/
 
 
 
