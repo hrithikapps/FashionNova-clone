@@ -31,7 +31,7 @@ Fashion Nova is an American fast fashion retail company.
 Project was assigned by Masai School to a team of 5 menmbers and was completed in 7 days
 
 ## Related Links
-https://medium.com/@salmankhan231999/clone-of-fashionnova-com-7681e2a5bf59
+### Here you can see the project: https://clone-fashionnova.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/95957405/158765164-336f5dba-ddf0-400c-83d7-b0eb8d24e92d.png)
 
@@ -41,7 +41,7 @@ https://medium.com/@salmankhan231999/clone-of-fashionnova-com-7681e2a5bf59
 
 
 
-# Here you can see the project: https://clone-fashionnova.netlify.app/
+# 
 
 
 
